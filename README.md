@@ -104,7 +104,8 @@ func _on_Nearby_body_exited(body):
 * Run the program, and make sure the Enemy sphere is reacting as you would expect (scanning, active, shooting, hiding) with corresponding color changes. When you are happy, update the LICENSE and README.md, commit and push your changes to GitHub, and turn in the URL of your repository on Canvas.
  
 I have prepared a [short example video](https://youtu.be/p0maW5ZHO0A) which demonstrates the behaviors. Let me know if I need to clarify anything else.
- 
+ __________________
+ Assignment complete.
 
 
  
